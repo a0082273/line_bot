@@ -1,0 +1,17 @@
+status: 301
+server: nginx/1.13.10
+date: Sun, 28 Oct 2018 13:24:49 GMT
+content-type: text/html
+content-length: 186
+connection: keep-alive
+location: https://www.rentcafe.com/dmslivecafe/UploadedImages/e44a0982-d9d2-4e92-b90f-b279eaabfe53.jpg
+-x-permanent-redirect-url: https://www.rentcafe.com/dmslivecafe/UploadedImages/e44a0982-d9d2-4e92-b90f-b279eaabfe53.jpg
+content-location: http://www.rentcafe.com/dmslivecafe/UploadedImages/e44a0982-d9d2-4e92-b90f-b279eaabfe53.jpg
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.13.10</center>
+</body>
+</html>
